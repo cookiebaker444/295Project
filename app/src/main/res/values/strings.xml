@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">295Project</string>
+    <string name="user_name">User Name</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="manager">Manager</string>
+    <string name="register">Register</string>
+    <string name="your_role">Your Role</string>
+    <string name="employee">Enployee</string>
+    <string name="log_in_page">Log In Page</string>
+</resources>

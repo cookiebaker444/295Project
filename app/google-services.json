@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "58815104154",
+    "firebase_url": "https://cmpe295-e95da.firebaseio.com",
+    "project_id": "cmpe295-e95da",
+    "storage_bucket": "cmpe295-e95da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58815104154:android:60eba4d22afaa0d9e00b23",
+        "android_client_info": {
+          "package_name": "com.example.a295project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58815104154-llcd11gg8ge08reqa6pifgr36ejcvm0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0yXUL9-jFsYx_yIEx9_8dbZ0-PIdCMnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58815104154-k3opv9uof747suonm2bd7hmb1bqg0eo0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
